@@ -19,7 +19,8 @@ Choix du thème :
 	avec une image en arrière plan qui prend uniquement le début de 
 	page. Ensuite, il y a plusieurs widgets ergonomiques et design qui sont bien espacés, ce 
 	qui rend le site moderne. Le thème donne une structure sur les 	 	 
-	pages qui est intéressante puisque il permet d'apporter un petit arriere plan de couleur, ainsi celui si ne donne pas la sensation d'être fade.
+	pages qui est intéressante puisque il permet d'apporter un petit arriere plan de couleur, ainsi celui si ne donne 
+	pas la sensation d'être fade.
 
 Liens utilent : 
 
