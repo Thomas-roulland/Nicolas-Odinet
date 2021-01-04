@@ -13,16 +13,9 @@ a été modifié ou ajouté alors cela s'affiche.
 
 - git pull -> permet de mettre à jour la branche.
 
-Choix de mon site :
+Choix du thème :
 
-	J'ai essayé de faire un site assez dynamique, que ce soit avec ma navbar défilante,
-	les boutons qui permettent de revenir sur l'index ou même le php et le java script dont j'ai essayé. 
-	Au niveau des couleurs, elles sont classiques mais efficaces : blanches, gris foncé, un peu de noir et du
-	vert clair. Ces couleurs rappellent l'informatique,de plus elles rendent le site désign. 
-	Pour le contenu, je voulais ne pas trop charger le site afin qu'il reste ergonomique et agréable 
-	à regarder, j'ai donc opté sur le visuel avec beaucoup de petit logo/icon ou des shémas 
-	comme par exemple pour mes compétences et éviter un maximum de trop mettre de texte, 
-	même s'il y en a quand même.
+	Nous avons choisi celui-ci puisque la structure est basique. La page d'accueil est constituée avec une image en arrière plan qui prend uniquement le début de 		page. Ensuite, il y a plusieurs widgets ergonomiques et design qui sont bien espacés, ce qui rend le site moderne. Le thème donne une structure sur les 	 	 pages qui est intéressante puisque il permet d'apporter un petit arriere plan de couleur, ainsi celui si ne donne pas la sensation d'être fade.
 
 Liens utilent : 
 
