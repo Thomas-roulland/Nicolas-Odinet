@@ -13,7 +13,7 @@ a été modifié ou ajouté alors cela s'affiche.
 
 - git pull -> permet de mettre à jour la branche.
 
-Choix du thème :
+Choix du thème : Hestia	
 
 	Nous avons choisi celui-ci puisque la structure est basique. 
 	La page d'accueil est constituée avec une image en arrière plan qui prend uniquement le début de la page. 
