@@ -26,4 +26,4 @@ Liens utilent :
 
 - Lien gitHub : https://github.com/Thomas-roulland/Nicolas-Odinet
 - Lien wordpress : http://62.210.83.115:11202/wordpress/
-- Lien google drive, vers le cahier des charges, maquette et la charte graphique : https://drive.google.com/drive/u/0/folders/1kR6xZmSLO2lgTJ2Bx0d5z_Ppy9AMUfDy
+- Lien google drive, vers le cahier des charges, maquette, charte graphique ... : https://drive.google.com/drive/u/0/folders/1kR6xZmSLO2lgTJ2Bx0d5z_Ppy9AMUfDy
