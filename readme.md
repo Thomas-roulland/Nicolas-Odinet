@@ -1,6 +1,6 @@
 # Nicolas-Odinet
 
-Commandes GitHub utilent : 
+Commandes GitHub : 
 
 - git status -> permet de voir si quelque chose a été modifié dans le fichier, si quelque chose
 a été modifié ou ajouté alors cela s'affiche.
@@ -22,8 +22,9 @@ Choix du thème : Hestia
 	Le thème donne une structure sur les pages qui est intéressante puisque il permet d'apporter 
 	un petit arriere plan de couleur, ainsi celui si ne donne pas la sensation d'être fade.
 
-Liens utilent : 
+Liens : 
 
 - Lien gitHub : https://github.com/Thomas-roulland/Nicolas-Odinet
 - Lien wordpress : http://62.210.83.115:11202/wordpress/
-- Lien google drive, vers le cahier des charges, maquette, charte graphique ... : https://github.com/Thomas-roulland/Nicolas-Odinet/tree/main/ROULLAND%20-%20DUMONT
+- Lien google drive, vers le cahier des charges, maquette, charte graphique ... :
+https://github.com/Thomas-roulland/Nicolas-Odinet/tree/main/ROULLAND%20-%20DUMONT
